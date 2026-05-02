@@ -90,7 +90,7 @@ theme: jekyll-theme-hydejack
  
 # Sidebar image and theme color of the site.
 accent_image:
-  background: url(https://raw.githubusercontent.com/3Darragh/Portfolio/main/Assets/projects/Portfolio_Subway_2.png) center/cover no-repeat
+  background: url(/projects/Portfolio_Subway_2.png) center/cover no-repeat
   overlay: false
 accent_color:          rgb(159, 224, 153)
 
