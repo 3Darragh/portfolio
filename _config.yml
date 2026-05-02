@@ -89,7 +89,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/Portfolio_Subway_1.png
+accent_image:          Portfolio/Assets/projects/Portfolio_Subway_2.png
 accent_color:          rgb(159, 224, 153)
 
 # This is used for the `theme-color` meta tag,
