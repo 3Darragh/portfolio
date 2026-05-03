@@ -11,8 +11,31 @@ permalink: /projects/
 </div>
 
 <div id="models">
-  <h2>Models</h2>
-  <!-- projects go here -->
+
+  <div style="margin-bottom: 40px;">
+    <h3>AC Unit</h3>
+    <img src="/portfolio/projects/Portfolio_AC_1.png" width="100%" alt="AC Unit Main" style="border: 3px solid rgb(159, 224, 153); display: block; margin-bottom: 10px;"/>
+    <img src="/portfolio/projects/Portfolio_AC_2.png" width="50%" alt="AC Unit Detail" style="border: 3px solid rgb(159, 224, 153); display: block;"/>
+  </div>
+
+  <div style="margin-bottom: 40px;">
+    <h3>School Locker</h3>
+    <img src="/portfolio/projects/Portfolio_Locker_1.png" width="100%" alt="Locker Main" style="border: 3px solid rgb(159, 224, 153); display: block; margin-bottom: 10px;"/>
+    <img src="/portfolio/projects/Portfolio_Locker_2.png" width="50%" alt="Locker Detail" style="border: 3px solid rgb(159, 224, 153); display: block;"/>
+  </div>
+
+  <div style="margin-bottom: 40px;">
+    <h3>PC Case</h3>
+    <img src="/portfolio/projects/Portfolio_PC_1.png" width="100%" alt="PC Case Main" style="border: 3px solid rgb(159, 224, 153); display: block; margin-bottom: 10px;"/>
+    <img src="/portfolio/projects/Portfolio_PC_2.png" width="50%" alt="PC Case Detail" style="border: 3px solid rgb(159, 224, 153); display: block;"/>
+  </div>
+
+  <div style="margin-bottom: 40px;">
+    <h3>Subway Scene</h3>
+    <img src="/portfolio/projects/Portfolio_Subway_1.png" width="100%" alt="Subway Main" style="border: 3px solid rgb(159, 224, 153); display: block; margin-bottom: 10px;"/>
+    <img src="/portfolio/projects/Portfolio_Subway_2.png" width="50%" alt="Subway Detail" style="border: 3px solid rgb(159, 224, 153); display: block;"/>
+  </div>
+
 </div>
 
 <div id="programs" style="display:none;">
