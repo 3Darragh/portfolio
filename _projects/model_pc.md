@@ -1,6 +1,6 @@
 ---
 layout: project
-title: PC Case
+title: Computer
 screenshot:
   src: /portfolio/projects/Portfolio_PC_2.png
 caption: A 3D model of a PC case made in Blender.

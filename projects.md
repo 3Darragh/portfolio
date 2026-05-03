@@ -60,12 +60,14 @@ permalink: /works/
 
 <div class="project-grid">
 
-  <div class="project-card">
+<div class="project-card">
     <img src="/portfolio/projects/Portfolio_AC_1.png" alt="AC Unit"/>
     <div class="project-card-body">
       <h3>AC Unit</h3>
-      <p>A detailed 3D model of an AC unit made in Blender.</p>
-      <div><span class="project-tag">3D Model</span></div>
+      <div>
+        <span class="project-tag">3D Model</span>
+        <span class="project-tag">Blender</span>
+      </div>
     </div>
   </div>
 
@@ -73,27 +75,33 @@ permalink: /works/
     <img src="/portfolio/projects/Portfolio_Locker_1.png" alt="School Locker"/>
     <div class="project-card-body">
       <h3>School Locker</h3>
-      <p>A 3D model of a school locker made in Blender.</p>
-      <div><span class="project-tag">3D Model</span></div>
+      <div>
+        <span class="project-tag">3D Model</span>
+        <span class="project-tag">Blender</span>
+      </div>
     </div>
   </div>
 
   <div class="project-card">
-    <img src="/portfolio/projects/Portfolio_PC_1.png" alt="PC Case"/>
+    <img src="/portfolio/projects/Portfolio_PC_2.png" alt="PC Case"/>
     <div class="project-card-body">
       <h3>PC Case</h3>
-      <p>A 3D model of a PC case made in Blender.</p>
-      <div><span class="project-tag">3D Model</span></div>
+      <div>
+        <span class="project-tag">3D Model</span>
+        <span class="project-tag">Blender</span>
+      </div>
     </div>
   </div>
 
-  <div class="project-card">
-    <img src="/portfolio/projects/Portfolio_Subway_1.png" alt="Subway Scene"/>
-    <div class="project-card-body">
-      <h3>Subway Scene</h3>
-      <p>A full 3D subway scene made in Blender.</p>
-      <div><span class="project-tag">3D Model</span></div>
+<div class="project-card">
+  <img src="/portfolio/projects/Portfolio_Subway_1.png" alt="Subway Scene"/>
+  <div class="project-card-body">
+    <h3>Subway Scene</h3>
+    <div>
+      <span class="project-tag">3D Model</span>
+      <span class="project-tag">Blender</span>
     </div>
   </div>
+</div>
 
 </div>

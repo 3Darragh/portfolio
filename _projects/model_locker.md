@@ -1,6 +1,6 @@
 ---
 layout: project
-title: School Locker
+title: Locker
 screenshot:
   src: /portfolio/projects/Portfolio_Locker_1.png
 caption: A 3D model of a school locker made in Blender.
