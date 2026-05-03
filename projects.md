@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Projects
+permalink: /projects/
 ---
 
 <div style="text-align: center; margin-bottom: 30px;">
