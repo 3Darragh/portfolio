@@ -73,7 +73,4 @@ author1:
     # discord:         <invite-code>
     # mastodon:        https://<url>
     # x:               <username>
-  links:
-    - title: ArtStation
-      url: https://www.artstation.com/darragh
-      icon: fab fa-artstation
+    artstation:      darragh
