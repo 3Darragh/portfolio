@@ -309,7 +309,6 @@ include:
   - _routes.json
   - .well-known
   - LICENSE.md
-  - projects
 
 
 # Plugins
@@ -416,3 +415,18 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+# Project folder direct includes.
+# ----------------------------------------------------------------------------------------
+
+include:
+  - projects/Portfolio_AC_1.png
+  - projects/Portfolio_AC_2.png
+  - projects/Portfolio_Locker_1.png
+  - projects/Portfolio_Locker_2.png
+  - projects/Portfolio_PC_1.png
+  - projects/Portfolio_PC_2.png
+  - projects/Portfolio_Resume.pdf
+  - projects/Portfolio_Resume.png
+  - projects/Portfolio_Subway_1.png
+  - projects/Portfolio_Subway_2.png
