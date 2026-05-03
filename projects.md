@@ -12,29 +12,47 @@ permalink: /projects/
 
 <div id="models">
 
-  <div style="margin-bottom: 40px;">
+  <style>
+    .model { margin-bottom: 40px; position: relative; }
+    .model h3 { margin-bottom: 10px; }
+    .carousel { position: relative; overflow: hidden; }
+    .carousel img { width: 100%; display: none; border: 3px solid rgb(159, 224, 153); }
+    .carousel img.active { display: block; }
+    .arrow {
+      position: absolute; top: 50%; transform: translateY(-50%);
+      background: rgba(0,0,0,0.3); color: white; border: none;
+      font-size: 24px; padding: 10px 16px; cursor: pointer;
+      z-index: 10; transition: background 0.2s;
+    }
+    .arrow:hover { background: rgba(0,0,0,0.6); }
+    .left-arrow { left: 10px; }
+    .right-arrow { right: 10px; }
+  </style>
+
+  <script>
+    function slide(id, dir) {
+      const imgs = document.querySelectorAll('#' + id + ' img');
+      let active = Array.from(imgs).findIndex(i => i.classList.contains('active'));
+      imgs[active].classList.remove('active');
+      active = (active + dir + imgs.length) % imgs.length;
+      imgs[active].classList.add('active');
+    }
+  </script>
+
+  <div class="model">
     <h3>AC Unit</h3>
-    <img src="/portfolio/projects/Portfolio_AC_1.png" width="100%" alt="AC Unit Main" style="border: 3px solid rgb(159, 224, 153); display: block; margin-bottom: 10px;"/>
-    <img src="/portfolio/projects/Portfolio_AC_2.png" width="50%" alt="AC Unit Detail" style="border: 3px solid rgb(159, 224, 153); display: block;"/>
+    <div class="carousel" id="ac">
+      <button class="arrow left-arrow" onclick="slide('ac', -1)">&#8249;</button>
+      <img src="/portfolio/projects/Portfolio_AC_1.png" alt="AC Unit 1" class="active"/>
+      <img src="/portfolio/projects/Portfolio_AC_2.png" alt="AC Unit 2"/>
+      <button class="arrow right-arrow" onclick="slide('ac', 1)">&#8250;</button>
+    </div>
   </div>
 
-  <div style="margin-bottom: 40px;">
+  <div class="model">
     <h3>School Locker</h3>
-    <img src="/portfolio/projects/Portfolio_Locker_1.png" width="100%" alt="Locker Main" style="border: 3px solid rgb(159, 224, 153); display: block; margin-bottom: 10px;"/>
-    <img src="/portfolio/projects/Portfolio_Locker_2.png" width="50%" alt="Locker Detail" style="border: 3px solid rgb(159, 224, 153); display: block;"/>
-  </div>
-
-  <div style="margin-bottom: 40px;">
-    <h3>PC Case</h3>
-    <img src="/portfolio/projects/Portfolio_PC_1.png" width="100%" alt="PC Case Main" style="border: 3px solid rgb(159, 224, 153); display: block; margin-bottom: 10px;"/>
-    <img src="/portfolio/projects/Portfolio_PC_2.png" width="50%" alt="PC Case Detail" style="border: 3px solid rgb(159, 224, 153); display: block;"/>
-  </div>
-
-  <div style="margin-bottom: 40px;">
-    <h3>Subway Scene</h3>
-    <img src="/portfolio/projects/Portfolio_Subway_1.png" width="100%" alt="Subway Main" style="border: 3px solid rgb(159, 224, 153); display: block; margin-bottom: 10px;"/>
-    <img src="/portfolio/projects/Portfolio_Subway_2.png" width="50%" alt="Subway Detail" style="border: 3px solid rgb(159, 224, 153); display: block;"/>
-  </div>
+    <div class="carousel" id="locker">
+      <button class="arrow left-arrow" onclick="slide('locker', -1)">&#8249;
 
 </div>
 
