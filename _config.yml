@@ -419,6 +419,8 @@ jekyll_compose:
 # Project folder direct includes.
 # ----------------------------------------------------------------------------------------
 
+projects_collection: projects
+
 include:
   - projects/Portfolio_AC_1.png
   - projects/Portfolio_AC_2.png
