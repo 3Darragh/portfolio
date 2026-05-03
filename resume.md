@@ -13,3 +13,10 @@ permalink: /resume/
 </div>
 
 <img src="/Portfolio/projects/Portfolio_Resume.png" width="100%" alt="Resume" style="border: 3px solid rgb(159, 224, 153); display: block;"/>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var spinner = document.querySelector(".page-spinner");
+    if (spinner) spinner.style.display = "none";
+  });
+</script>
