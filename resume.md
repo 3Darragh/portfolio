@@ -12,4 +12,4 @@ permalink: /resume/
   </a>
 </div>
 
-<iframe src="https://docs.google.com/viewer?url=https://3darragh.github.io/Portfolio/projects/Portfolio_Resume.pdf&embedded=true" width="100%" height="1200px" frameborder="0"></iframe>
+<img src="/projects/Portfolio_Resume.png" width="100%" alt="Resume"/>
