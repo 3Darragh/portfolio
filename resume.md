@@ -12,4 +12,4 @@ permalink: /resume/
   </a>
 </div>
 
-<img src="/Portfolio/projects/Portfolio_Resume.png" width="100%" alt="Resume"/>
+<img src="/Portfolio/projects/Portfolio_Resume.png" width="100%" alt="Resume" style="border: 3px solid rgb(159, 224, 153); display: block;"/>
