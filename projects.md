@@ -60,6 +60,7 @@ permalink: /works/
 
 <div class="project-grid">
 
+<!-- AC Unit -->
 <div class="project-card">
     <img src="/portfolio/projects/Portfolio_AC_1.png" alt="AC Unit"/>
     <div class="project-card-body">
@@ -71,6 +72,7 @@ permalink: /works/
     </div>
   </div>
 
+<!-- Locker -->
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Locker_1.png" alt="School Locker"/>
     <div class="project-card-body">
@@ -82,6 +84,7 @@ permalink: /works/
     </div>
   </div>
 
+<!-- PC Case -->
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_PC_2.png" alt="PC Case"/>
     <div class="project-card-body">
@@ -93,6 +96,7 @@ permalink: /works/
     </div>
   </div>
 
+<!-- Subway Scene -->
 <div class="project-card">
   <img src="/portfolio/projects/Portfolio_Subway_1.png" alt="Subway Scene"/>
   <div class="project-card-body">
@@ -100,6 +104,42 @@ permalink: /works/
     <div>
       <span class="project-tag">3D Model</span>
       <span class="project-tag">Blender</span>
+    </div>
+  </div>
+</div>
+
+<!-- Build System -->
+<div class="project-card">
+  <img src="/portfolio/projects/Portfolio_Zig.png" alt="Build System"/>
+  <div class="project-card-body">
+    <h3>Build System</h3>
+    <div>
+      <span class="project-tag">Programming</span>
+      <span class="project-tag">Zig</span>
+    </div>
+  </div>
+</div>
+
+<!-- Input Handler -->
+<div class="project-card">
+  <img src="/portfolio/projects/Portfolio_Zig.png" alt="Build System"/>
+  <div class="project-card-body">
+    <h3>Input Handler</h3>
+    <div>
+      <span class="project-tag">Programming</span>
+      <span class="project-tag">Zig</span>
+    </div>
+  </div>
+</div>
+
+<!-- Math Library -->
+<div class="project-card">
+  <img src="/portfolio/projects/Portfolio_CPP.png" alt="Build System"/>
+  <div class="project-card-body">
+    <h3>Math Library</h3>
+    <div>
+      <span class="project-tag">Programming</span>
+      <span class="project-tag">C++</span>
     </div>
   </div>
 </div>
