@@ -6,11 +6,37 @@
   max-width: calc(100% - 22rem - var(--content-margin-5)) !important;
   box-sizing: border-box !important;
 
-  @media (max-width: 1655px) {
+  @media (max-width: 1600px) {
+    margin-left: calc(25rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 25rem - var(--content-margin-5)) !important;
+  }
+
+  @media (max-width: 1650px) {
     margin-left: calc(26rem + var(--content-margin-5)) !important;
     max-width: calc(100% - 26rem - var(--content-margin-5)) !important;
   }
+
+  @media (max-width: 1700px) {
+    margin-left: calc(27rem + var(--content-margin-5)) !important;
+    max-width:calc(100% - 27rem - var(--content-margin-5)) !important;
+  }
+
+  @media (max-width: 1750px) {
+    margin-left: calc(28rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 28rem - var(--content-margin-5)) !important;
+  }
+
   @media (min-width: 1800px) {
+    margin-left: calc(29rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 29rem - var(--content-margin-5)) !important;
+  }
+
+    @media (min-width: 1850px) {
+    margin-left: calc(29rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 29rem - var(--content-margin-5)) !important;
+  }
+
+    @media (min-width: 1920px) {
     margin-left: calc(29rem + var(--content-margin-5)) !important;
     max-width: calc(100% - 29rem - var(--content-margin-5)) !important;
   }
