@@ -6,29 +6,39 @@
   max-width: calc(100% - 21rem - var(--content-margin-5)) !important;
   box-sizing: border-box !important;
 
-  @media (max-width: 1700px) {
+  @media (min-width: 1632px) {
     margin-left: calc(22rem + var(--content-margin-5)) !important;
-    max-width:calc(100% - 22rem - var(--content-margin-5)) !important;
+    max-width: calc(100% - 22rem - var(--content-margin-5)) !important;
   }
 
-  @media (max-width: 1750px) {
-    margin-left: calc(31rem + var(--content-margin-5)) !important;
-    max-width: calc(100% - 31rem - var(--content-margin-5)) !important;
+  @media (min-width: 1682px) {
+    margin-left: calc(23rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 23rem - var(--content-margin-5)) !important;
   }
 
-  @media (min-width: 1800px) {
+  @media (min-width: 1732px) {
+    margin-left: calc(24rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 24rem - var(--content-margin-5)) !important;
+  }
+
+  @media (min-width: 1782px) {
+    margin-left: calc(25rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 25rem - var(--content-margin-5)) !important;
+  }
+
+  @media (min-width: 1832px) {
+    margin-left: calc(26rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 26rem - var(--content-margin-5)) !important;
+  }
+
+  @media (min-width: 1882px) {
     margin-left: calc(27rem + var(--content-margin-5)) !important;
     max-width: calc(100% - 27rem - var(--content-margin-5)) !important;
   }
 
-    @media (min-width: 1850px) {
+  @media (min-width: 1920px) {
     margin-left: calc(28rem + var(--content-margin-5)) !important;
     max-width: calc(100% - 28rem - var(--content-margin-5)) !important;
-  }
-
-    @media (min-width: 1920px) {
-    margin-left: calc(29rem + var(--content-margin-5)) !important;
-    max-width: calc(100% - 29rem - var(--content-margin-5)) !important;
   }
 }
 
