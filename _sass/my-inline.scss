@@ -5,6 +5,11 @@
   margin-right: var(--content-margin-5) !important;
   max-width: calc(100% - 21rem - var(--content-margin-5)) !important;
   box-sizing: border-box !important;
+  
+  @media (max-width: 1024px) {
+  margin-left: 0 !important;
+  max-width: 100% !important;
+}
 
   @media (min-width: 1632px) {
     margin-left: calc(22rem + var(--content-margin-5)) !important;
@@ -37,8 +42,8 @@
   }
 
   @media (min-width: 1920px) {
-    margin-left: calc(28rem + var(--content-margin-5)) !important;
-    max-width: calc(100% - 28rem - var(--content-margin-5)) !important;
+    margin-left: calc(29rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 29rem - var(--content-margin-5)) !important;
   }
 }
 
