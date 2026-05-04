@@ -55,12 +55,7 @@ permalink: /works/
     display: inline-block; padding: 2px 10px; border-radius: 20px;
     font-size: 0.75rem; margin-right: 4px;
     border: 1px solid rgb(0, 0, 0); color: rgb(0, 0, 0);
-  }
-  .tag-programming {
-    display: inline-block; padding: 2px 10px; border-radius: 20px;
-    font-size: 0.75rem; margin-right: 4px;
-    border: 1px solid rgb(255, 179, 100); color: rgb(255, 179, 100);
-  }
+   }
   .tag-zig {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
     font-size: 0.75rem; margin-right: 4px;
@@ -79,7 +74,7 @@ permalink: /works/
    .tag-model {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
     font-size: 0.75rem; margin-right: 4px;
-    border: 1px solid rgb(159, 224, 153); color: rgb(100, 160, 95);
+    border: 1px solid rgb(100, 160, 95); color: rgb(100, 160, 95);
   }
   .tag-interactive {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
@@ -139,7 +134,7 @@ permalink: /works/
     <img src="/portfolio/projects/Portfolio_Subway_1.png" alt="Subway Scene"/>
     <div class="project-card-body">
       <h3>Subway Scene</h3>
-      <p>A full 3D subway scene made in Blender.</p>
+      <p>A custom subway tunnel scene made in Blender.</p>
       <div>
         <span class="tag-model">3D Model</span>
         <span class="tag-blender">Blender</span>
@@ -154,7 +149,7 @@ permalink: /works/
       <h3>Build System</h3>
       <p>A modular build library for game engines written in Zig.</p>
       <div>
-        <span class="tag-programming">Programming</span>
+        <span class="tag-tool">Development Tool</span>
         <span class="tag-zig">Zig</span>
       </div>
     </div>
@@ -165,9 +160,9 @@ permalink: /works/
     <img src="/portfolio/projects/Portfolio_Zig.png" alt="Input Handler"/>
     <div class="project-card-body">
       <h3>Input Handler</h3>
-      <p>An input handler built with SDL2 supporting mouse, keyboard, and controller.</p>
+      <p>An input handler made with SDL3 for mouse, keyboard, and controllers.</p>
       <div>
-        <span class="tag-programming">Programming</span>
+        <span class="tag-tool">Development Tool</span>
         <span class="tag-zig">Zig</span>
       </div>
     </div>
@@ -180,8 +175,34 @@ permalink: /works/
       <h3>Math Library</h3>
       <p>A math library built from scratch with vectors, matrices, and quaternions.</p>
       <div>
-        <span class="tag-programming">Programming</span>
+        <span class="tag-tool">Development Tool</span>
         <span class="tag-cpp">C++</span>
+      </div>
+    </div>
+  </div>
+
+   <!-- Solar System -->
+  <div class="project-card">
+    <img src="/portfolio/projects/Portfolio_CPP.png" alt="Math Library"/>
+    <div class="project-card-body">
+      <h3>Interactive Solar System</h3>
+      <p>An interactive solar system made in Javascript as an educational tool.</p>
+      <div>
+        <span class="tag-interactive">Interactive Demo</span>
+        <span class="tag-javascript">Javascript</span>
+      </div>
+    </div>
+  </div>
+
+     <!-- Unity Demo -->
+  <div class="project-card">
+    <img src="/portfolio/projects/Portfolio_CPP.png" alt="Math Library"/>
+    <div class="project-card-body">
+      <h3>Unity Character Demo</h3>
+      <p>Playable Unity Demo made to show physics applied to the character controller.</p>
+      <div>
+        <span class="tag-interactive">Interactive Demo</span>
+        <span class="tag-unity">Unity</span>
       </div>
     </div>
   </div>
