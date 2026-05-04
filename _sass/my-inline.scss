@@ -1,8 +1,8 @@
 // Custom styles for Darragh McConville's portfolio
 
 #_main {
-  margin-left: 21rem !important;
-  max-width: calc(100% - 21rem) !important;
+  margin-left: var(--content-margin-5) !important;
+  max-width: calc(100% - var(--content-margin-5)) !important;
   box-sizing: border-box !important;
   padding: 0 2rem !important;
 }
