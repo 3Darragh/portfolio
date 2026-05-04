@@ -15,6 +15,14 @@ main#_main {
   margin-top: 24px;
 }
 
+.layout-page {
+  grid-template-columns: 1fr !important;
+}
+
+#_third-column {
+  display: none !important;
+}
+
 @media (max-width: 900px) {
   .project-grid { grid-template-columns: repeat(2, 1fr); }
 }
