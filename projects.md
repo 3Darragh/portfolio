@@ -11,6 +11,13 @@ permalink: /works/
     max-width: 100%;
     padding-right: 2rem;
   }
+  .content.layout-page {
+  overflow: visible !important;
+}
+article.page {
+  overflow: visible !important;
+  max-width: 100% !important;
+}
   .project-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);

@@ -12,6 +12,14 @@ permalink: /resume/
     max-width: 100%;
     padding-right: 2rem;
   }
+  .content.layout-page {
+  overflow: visible !important;
+}
+
+article.page {
+  overflow: visible !important;
+  max-width: 100% !important;
+}
 </style>
 
 <div style="text-align: center; margin-bottom: 20px;">
