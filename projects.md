@@ -7,6 +7,7 @@ permalink: /works/
 <div class="project-grid">
 
   <!-- Build System -->
+  <a href="/portfolio/projects/tool_build/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Zig.png" alt="Build System"/>
     <div class="project-card-body">
@@ -18,8 +19,10 @@ permalink: /works/
       </div>
     </div>
   </div>
+  </a>
 
   <!-- Input Handler -->
+  <a href="/portfolio/projects/tool_input/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Zig.png" alt="Input Handler"/>
     <div class="project-card-body">
@@ -31,10 +34,12 @@ permalink: /works/
       </div>
     </div>
   </div>
+  </a>
 
   <!-- Solar System -->
+  <a href="/portfolio/projects/demo_solarsystem/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
-    <img src="/portfolio/projects/Portfolio_CPP.png" alt="Solar System"/>
+    <img src="/portfolio/projects/Portfolio_CPP.png" alt="Interactive Solar System"/>
     <div class="project-card-body">
       <h3>Interactive Solar System</h3>
       <p>An interactive solar system made in Javascript as an educational tool.</p>
@@ -44,8 +49,10 @@ permalink: /works/
       </div>
     </div>
   </div>
+  </a>
 
   <!-- Subway Scene -->
+  <a href="/portfolio/projects/model_subway/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Subway_1.png" alt="Subway Scene"/>
     <div class="project-card-body">
@@ -57,8 +64,10 @@ permalink: /works/
       </div>
     </div>
   </div>
+  </a>
 
   <!-- Math Library -->
+  <a href="/portfolio/projects/tool_math/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_CPP.png" alt="Math Library"/>
     <div class="project-card-body">
@@ -70,8 +79,10 @@ permalink: /works/
       </div>
     </div>
   </div>
+  </a>
 
   <!-- Unity Demo -->
+  <a href="/portfolio/projects/demo_unity/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_CPP.png" alt="Unity Character Demo"/>
     <div class="project-card-body">
@@ -83,8 +94,10 @@ permalink: /works/
       </div>
     </div>
   </div>
+  </a>
 
   <!-- AC Unit -->
+  <a href="/portfolio/projects/model_ac/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_AC_1.png" alt="AC Unit"/>
     <div class="project-card-body">
@@ -96,8 +109,10 @@ permalink: /works/
       </div>
     </div>
   </div>
+  </a>
 
   <!-- Locker -->
+  <a href="/portfolio/projects/model_locker/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Locker_1.png" alt="School Locker"/>
     <div class="project-card-body">
@@ -109,8 +124,10 @@ permalink: /works/
       </div>
     </div>
   </div>
+  </a>
 
   <!-- PC Case -->
+  <a href="/portfolio/projects/model_pc/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_PC_2.png" alt="PC Case"/>
     <div class="project-card-body">
@@ -122,5 +139,6 @@ permalink: /works/
       </div>
     </div>
   </div>
+  </a>
 
 </div>

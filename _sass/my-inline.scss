@@ -105,6 +105,10 @@
   }
 }
 
+a:has(.project-card) {
+  display: block;
+}
+
 // Tags
 @mixin tag($color) {
   display: inline-block;
