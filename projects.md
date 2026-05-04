@@ -3,7 +3,6 @@ layout: page
 title: Projects
 permalink: /works/
 ---
-
 <style>
   .project-grid {
     display: grid;
@@ -47,101 +46,124 @@ permalink: /works/
     flex: 1;
     margin: 0 0 10px 0;
   }
-  .project-tag {
-    display: inline-block;
-    padding: 2px 10px;
-    border-radius: 20px;
-    border: 1px solid rgb(159, 224, 153);
-    font-size: 0.75rem;
-    color: rgb(100, 160, 95);
-    margin-right: 4px;
+  .tag-model {
+    display: inline-block; padding: 2px 10px; border-radius: 20px;
+    font-size: 0.75rem; margin-right: 4px;
+    border: 1px solid rgb(159, 224, 153); color: rgb(100, 160, 95);
+  }
+  .tag-blender {
+    display: inline-block; padding: 2px 10px; border-radius: 20px;
+    font-size: 0.75rem; margin-right: 4px;
+    border: 1px solid rgb(100, 149, 237); color: rgb(100, 149, 237);
+  }
+  .tag-programming {
+    display: inline-block; padding: 2px 10px; border-radius: 20px;
+    font-size: 0.75rem; margin-right: 4px;
+    border: 1px solid rgb(255, 179, 100); color: rgb(255, 179, 100);
+  }
+  .tag-zig {
+    display: inline-block; padding: 2px 10px; border-radius: 20px;
+    font-size: 0.75rem; margin-right: 4px;
+    border: 1px solid rgb(255, 140, 100); color: rgb(255, 140, 100);
+  }
+  .tag-cpp {
+    display: inline-block; padding: 2px 10px; border-radius: 20px;
+    font-size: 0.75rem; margin-right: 4px;
+    border: 1px solid rgb(180, 100, 255); color: rgb(180, 100, 255);
   }
 </style>
 
 <div class="project-grid">
 
-<!-- AC Unit -->
-<div class="project-card">
+  <!-- AC Unit -->
+  <div class="project-card">
     <img src="/portfolio/projects/Portfolio_AC_1.png" alt="AC Unit"/>
     <div class="project-card-body">
       <h3>AC Unit</h3>
+      <p>A detailed 3D model of an AC unit made in Blender.</p>
       <div>
-        <span class="project-tag">3D Model</span>
-        <span class="project-tag">Blender</span>
+        <span class="tag-model">3D Model</span>
+        <span class="tag-blender">Blender</span>
       </div>
     </div>
   </div>
 
-<!-- Locker -->
+  <!-- Locker -->
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Locker_1.png" alt="School Locker"/>
     <div class="project-card-body">
       <h3>School Locker</h3>
+      <p>A 3D model of a school locker made in Blender.</p>
       <div>
-        <span class="project-tag">3D Model</span>
-        <span class="project-tag">Blender</span>
+        <span class="tag-model">3D Model</span>
+        <span class="tag-blender">Blender</span>
       </div>
     </div>
   </div>
 
-<!-- PC Case -->
+  <!-- PC Case -->
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_PC_2.png" alt="PC Case"/>
     <div class="project-card-body">
       <h3>PC Case</h3>
+      <p>A 3D model of a PC case made in Blender.</p>
       <div>
-        <span class="project-tag">3D Model</span>
-        <span class="project-tag">Blender</span>
+        <span class="tag-model">3D Model</span>
+        <span class="tag-blender">Blender</span>
       </div>
     </div>
   </div>
 
-<!-- Subway Scene -->
-<div class="project-card">
-  <img src="/portfolio/projects/Portfolio_Subway_1.png" alt="Subway Scene"/>
-  <div class="project-card-body">
-    <h3>Subway Scene</h3>
-    <div>
-      <span class="project-tag">3D Model</span>
-      <span class="project-tag">Blender</span>
+  <!-- Subway Scene -->
+  <div class="project-card">
+    <img src="/portfolio/projects/Portfolio_Subway_1.png" alt="Subway Scene"/>
+    <div class="project-card-body">
+      <h3>Subway Scene</h3>
+      <p>A full 3D subway scene made in Blender.</p>
+      <div>
+        <span class="tag-model">3D Model</span>
+        <span class="tag-blender">Blender</span>
+      </div>
     </div>
   </div>
-</div>
 
-<!-- Build System -->
-<div class="project-card">
-  <img src="/portfolio/projects/Portfolio_Zig.png" alt="Build System"/>
-  <div class="project-card-body">
-    <h3>Build System</h3>
-    <div>
-      <span class="project-tag">Programming</span>
-      <span class="project-tag">Zig</span>
+  <!-- Build System -->
+  <div class="project-card">
+    <img src="/portfolio/projects/Portfolio_Zig.png" alt="Build System"/>
+    <div class="project-card-body">
+      <h3>Build System</h3>
+      <p>A modular build library for game engines written in Zig.</p>
+      <div>
+        <span class="tag-programming">Programming</span>
+        <span class="tag-zig">Zig</span>
+      </div>
     </div>
   </div>
-</div>
 
-<!-- Input Handler -->
-<div class="project-card">
-  <img src="/portfolio/projects/Portfolio_Zig.png" alt="Build System"/>
-  <div class="project-card-body">
-    <h3>Input Handler</h3>
-    <div>
-      <span class="project-tag">Programming</span>
-      <span class="project-tag">Zig</span>
+  <!-- Input Handler -->
+  <div class="project-card">
+    <img src="/portfolio/projects/Portfolio_Zig.png" alt="Input Handler"/>
+    <div class="project-card-body">
+      <h3>Input Handler</h3>
+      <p>An input handler built with SDL2 supporting mouse, keyboard, and controller.</p>
+      <div>
+        <span class="tag-programming">Programming</span>
+        <span class="tag-zig">Zig</span>
+      </div>
     </div>
   </div>
-</div>
 
-<!-- Math Library -->
-<div class="project-card">
-  <img src="/portfolio/projects/Portfolio_CPP.png" alt="Build System"/>
-  <div class="project-card-body">
-    <h3>Math Library</h3>
-    <div>
-      <span class="project-tag">Programming</span>
-      <span class="project-tag">C++</span>
+  <!-- Math Library -->
+  <div class="project-card">
+    <img src="/portfolio/projects/Portfolio_CPP.png" alt="Math Library"/>
+    <div class="project-card-body">
+      <h3>Math Library</h3>
+      <p>A math library built from scratch with vectors, matrices, and quaternions.</p>
+      <div>
+        <span class="tag-programming">Programming</span>
+        <span class="tag-cpp">C++</span>
+      </div>
     </div>
   </div>
-</div>
 
 </div>
