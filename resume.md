@@ -4,26 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-<style>
-  .page {
-    max-width: 100%;
-  }
-  .content {
-    max-width: 100%;
-    padding-right: 2rem;
-  }
-  .content.layout-page {
-  overflow: visible !important;
-  }
-  article.page {
-   overflow: visible !important;
-   max-width: 100% !important;
-  }
-  .project-grid {
-   padding-left: 1rem;
-  }
-</style>
-
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="/portfolio/projects/Portfolio_Resume.pdf" 
      download
