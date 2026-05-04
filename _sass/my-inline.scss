@@ -1,9 +1,9 @@
 // Custom styles for Darragh McConville's portfolio
 
 #_main {
-  margin-left: calc(21rem + var(--content-margin-5)) !important;
+  margin-left: calc(23rem + var(--content-margin-5)) !important;
   margin-right: var(--content-margin-5) !important;
-  max-width: calc(100% - 21rem - var(--content-margin-5)) !important;
+  max-width: calc(100% - 23rem - var(--content-margin-5)) !important;
   box-sizing: border-box !important;
 
   @media (max-width: 1700px) {
@@ -12,18 +12,18 @@
   }
 
   @media (max-width: 1750px) {
-    margin-left: calc(29rem + var(--content-margin-5)) !important;
-    max-width: calc(100% - 29rem - var(--content-margin-5)) !important;
+    margin-left: calc(31rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 31rem - var(--content-margin-5)) !important;
   }
 
   @media (min-width: 1800px) {
-    margin-left: calc(29rem + var(--content-margin-5)) !important;
-    max-width: calc(100% - 29rem - var(--content-margin-5)) !important;
+    margin-left: calc(27rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 27rem - var(--content-margin-5)) !important;
   }
 
     @media (min-width: 1850px) {
-    margin-left: calc(29rem + var(--content-margin-5)) !important;
-    max-width: calc(100% - 29rem - var(--content-margin-5)) !important;
+    margin-left: calc(28rem + var(--content-margin-5)) !important;
+    max-width: calc(100% - 28rem - var(--content-margin-5)) !important;
   }
 
     @media (min-width: 1920px) {
