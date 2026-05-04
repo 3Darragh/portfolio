@@ -2,8 +2,17 @@
 layout: page
 title: Resume
 permalink: /resume/
-<link rel="stylesheet" href="/portfolio/projects/my-style.css"/>
 ---
+
+<style>
+  .page {
+    max-width: 100%;
+  }
+  .content {
+    max-width: 100%;
+    padding-right: 2rem;
+  }
+</style>
 
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="/portfolio/projects/Portfolio_Resume.pdf" 

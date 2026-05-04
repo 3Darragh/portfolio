@@ -2,9 +2,15 @@
 layout: page
 title: Projects
 permalink: /works/
-<link rel="stylesheet" href="/portfolio/projects/my-style.css"/>
 ---
 <style>
+  .page {
+    max-width: 100%;
+  }
+  .content {
+    max-width: 100%;
+    padding-right: 2rem;
+  }
   .project-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -52,11 +58,11 @@ permalink: /works/
     font-size: 0.75rem; margin-right: 4px;
     border: 1px solid rgb(234, 118, 0); color: rgb(234, 118, 0);
   }
-   .tag-unity {
+  .tag-unity {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
     font-size: 0.75rem; margin-right: 4px;
     border: 1px solid rgb(0, 0, 0); color: rgb(0, 0, 0);
-   }
+  }
   .tag-zig {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
     font-size: 0.75rem; margin-right: 4px;
@@ -67,12 +73,12 @@ permalink: /works/
     font-size: 0.75rem; margin-right: 4px;
     border: 1px solid rgb(0, 84, 159); color: rgb(0, 84, 159);
   }
-   .tag-javascript {
+  .tag-javascript {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
     font-size: 0.75rem; margin-right: 4px;
     border: 1px solid rgb(247, 223, 30); color: rgb(247, 223, 30);
   }
-   .tag-model {
+  .tag-model {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
     font-size: 0.75rem; margin-right: 4px;
     border: 1px solid rgb(100, 160, 95); color: rgb(100, 160, 95);
@@ -119,7 +125,7 @@ permalink: /works/
 
   <!-- Solar System -->
   <div class="project-card">
-    <img src="/portfolio/projects/Portfolio_CPP.png" alt="Math Library"/>
+    <img src="/portfolio/projects/Portfolio_CPP.png" alt="Solar System"/>
     <div class="project-card-body">
       <h3>Interactive Solar System</h3>
       <p>An interactive solar system made in Javascript as an educational tool.</p>
@@ -130,7 +136,7 @@ permalink: /works/
     </div>
   </div>
 
-   <!-- Subway Scene -->
+  <!-- Subway Scene -->
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Subway_1.png" alt="Subway Scene"/>
     <div class="project-card-body">
@@ -158,7 +164,7 @@ permalink: /works/
 
   <!-- Unity Demo -->
   <div class="project-card">
-    <img src="/portfolio/projects/Portfolio_CPP.png" alt="Math Library"/>
+    <img src="/portfolio/projects/Portfolio_CPP.png" alt="Unity Character Demo"/>
     <div class="project-card-body">
       <h3>Unity Character Demo</h3>
       <p>Playable Unity Demo made to show physics applied to the character controller.</p>
