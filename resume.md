@@ -4,6 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 
+<style>
+  img[alt="Resume"] {
+    max-width: 900px;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
 <div style="text-align: center; margin-bottom: 20px;">
   <a href="/portfolio/projects/Portfolio_Resume.pdf" 
      download
