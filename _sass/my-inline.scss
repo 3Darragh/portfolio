@@ -23,6 +23,11 @@ main#_main {
   display: none !important;
 }
 
+.content.layout-page {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
 @media (max-width: 900px) {
   .project-grid { grid-template-columns: repeat(2, 1fr); }
 }
