@@ -46,15 +46,15 @@ permalink: /works/
     flex: 1;
     margin: 0 0 10px 0;
   }
-  .tag-model {
-    display: inline-block; padding: 2px 10px; border-radius: 20px;
-    font-size: 0.75rem; margin-right: 4px;
-    border: 1px solid rgb(159, 224, 153); color: rgb(100, 160, 95);
-  }
   .tag-blender {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
     font-size: 0.75rem; margin-right: 4px;
-    border: 1px solid rgb(100, 149, 237); color: rgb(100, 149, 237);
+    border: 1px solid rgb(234, 118, 0); color: rgb(234, 118, 0);
+  }
+   .tag-unity {
+    display: inline-block; padding: 2px 10px; border-radius: 20px;
+    font-size: 0.75rem; margin-right: 4px;
+    border: 1px solid rgb(0, 0, 0); color: rgb(0, 0, 0);
   }
   .tag-programming {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
@@ -64,12 +64,32 @@ permalink: /works/
   .tag-zig {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
     font-size: 0.75rem; margin-right: 4px;
-    border: 1px solid rgb(255, 140, 100); color: rgb(255, 140, 100);
+    border: 1px solid rgb(246, 164, 30); color: rgb(246, 164, 30);
   }
   .tag-cpp {
     display: inline-block; padding: 2px 10px; border-radius: 20px;
     font-size: 0.75rem; margin-right: 4px;
+    border: 1px solid rgb(0, 84, 159); color: rgb(0, 84, 159);
+  }
+   .tag-javascript {
+    display: inline-block; padding: 2px 10px; border-radius: 20px;
+    font-size: 0.75rem; margin-right: 4px;
+    border: 1px solid rgb(247, 223, 30); color: rgb(247, 223, 30);
+  }
+   .tag-model {
+    display: inline-block; padding: 2px 10px; border-radius: 20px;
+    font-size: 0.75rem; margin-right: 4px;
+    border: 1px solid rgb(159, 224, 153); color: rgb(100, 160, 95);
+  }
+  .tag-interactive {
+    display: inline-block; padding: 2px 10px; border-radius: 20px;
+    font-size: 0.75rem; margin-right: 4px;
     border: 1px solid rgb(180, 100, 255); color: rgb(180, 100, 255);
+  }
+  .tag-tool {
+    display: inline-block; padding: 2px 10px; border-radius: 20px;
+    font-size: 0.75rem; margin-right: 4px;
+    border: 1px solid rgb(246, 30, 30); color: rgb(246, 30, 30);
   }
 </style>
 
