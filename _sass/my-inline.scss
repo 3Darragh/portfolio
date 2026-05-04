@@ -1,14 +1,14 @@
 // Custom styles for Darragh McConville's portfolio
 
 #_main {
-  margin-left: calc(23rem + var(--content-margin-5)) !important;
+  margin-left: calc(21rem + var(--content-margin-5)) !important;
   margin-right: var(--content-margin-5) !important;
-  max-width: calc(100% - 23rem - var(--content-margin-5)) !important;
+  max-width: calc(100% - 21rem - var(--content-margin-5)) !important;
   box-sizing: border-box !important;
 
   @media (max-width: 1700px) {
-    margin-left: calc(24rem + var(--content-margin-5)) !important;
-    max-width:calc(100% - 24rem - var(--content-margin-5)) !important;
+    margin-left: calc(22rem + var(--content-margin-5)) !important;
+    max-width:calc(100% - 22rem - var(--content-margin-5)) !important;
   }
 
   @media (max-width: 1750px) {
