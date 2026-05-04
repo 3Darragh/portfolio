@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+<link rel="stylesheet" href="/portfolio/projects/my-style.css"/>
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">

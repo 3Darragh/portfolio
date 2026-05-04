@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /works/
+<link rel="stylesheet" href="/portfolio/projects/my-style.css"/>
 ---
 <style>
   .project-grid {
