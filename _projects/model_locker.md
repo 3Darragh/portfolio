@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AC Unit
-permalink: /projects/model_ac/
+title: Blender Locker
+permalink: /projects/model_locker/
 ---
 
 <div class="carousel" id="ac">
@@ -23,4 +23,4 @@ permalink: /projects/model_ac/
 
 **Tags:** 3D Model, Blender
 
-**Description:** "A 3D model of a school locker created in Blender as part of a class assignment to find and recreate an everyday object found around campus. The goal of this assignment was to practice accuracy in texturing and scaling.
+**Description:** "A 3D model of a school locker created in Blender as part of a class assignment to find and recreate an everyday object found around campus. The goal of this assignment was to practice accuracy in texturing and scaling. Uses basic textures with toned down metalic maps and I made a basic black and white texture for the handle.
