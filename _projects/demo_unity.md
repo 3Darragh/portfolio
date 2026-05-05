@@ -1,3 +1,9 @@
+---
+layout: page
+title: Unity Character Controller
+permalink: /projects/demo_unity/
+---
+
 <a href="/portfolio/works/" style="display: inline-block; margin-bottom: 20px; padding: 6px 16px; border: 1px solid rgb(159, 224, 153); color: var(--body-color); text-decoration: none; border-radius: 4px; font-size: 0.875rem; font-weight: bold;">← Back to Projects</a>
 
 <iframe 
