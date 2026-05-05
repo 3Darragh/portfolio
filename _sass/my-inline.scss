@@ -109,6 +109,39 @@ a:has(.project-card) {
   display: block;
 }
 
+.carousel {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 20px;
+
+  img {
+    width: 100%;
+    display: none;
+    border: 2px solid rgb(159, 224, 153);
+
+    &.active { display: block; }
+  }
+
+  .arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,0.3);
+    color: white;
+    border: none;
+    font-size: 24px;
+    padding: 10px 16px;
+    cursor: pointer;
+    z-index: 10;
+    transition: background 0.2s;
+
+    &:hover { background: rgba(0,0,0,0.6); }
+  }
+
+  .left-arrow { left: 10px; }
+  .right-arrow { right: 10px; }
+}
+
 // Tags
 @mixin tag($color) {
   display: inline-block;
