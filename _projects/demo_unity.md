@@ -4,13 +4,13 @@ title: Unity Character Demo
 permalink: /projects/demo_unity/
 ---
 
-<iframe 
-  src="/portfolio/projects/Unity_Character_Controller/index.html" 
+<iframe src="https://itch.io/embed-upload/4544340" 
   width="100%" 
-  height="600px" 
-  frameborder="0"
+  height="620px" 
+  frameborder="0" 
   allowfullscreen>
 </iframe>
+
 
 **Tags:** Interactive Demo, Unity
 
