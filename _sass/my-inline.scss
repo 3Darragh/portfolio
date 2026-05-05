@@ -150,6 +150,14 @@ body.dark-mode .project-card {
   p { color: #aaa; }
 }
 
+.page-title + hr,
+h1.page-title ~ hr {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+
+
 // Tags
 @mixin tag($color) {
   display: inline-block;
