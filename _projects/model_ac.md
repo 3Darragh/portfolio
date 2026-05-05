@@ -23,4 +23,4 @@ permalink: /projects/model_ac/
 
 **Tags:** 3D Model, Blender
 
-**Description:** A detailed 3D model of an AC unit made in Blender.
+**Description:** "A 3D model of a school locker created in Blender as part of a class assignment to find and recreate an object from a set of provided images. The purpose of this assignment was to use 2D images as references and recreate the models in 3D with an emphasis on maintaining scale and proportions.
