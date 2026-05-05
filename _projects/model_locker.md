@@ -4,11 +4,11 @@ title: Blender Locker
 permalink: /projects/model_locker/
 ---
 
-<div class="carousel" id="ac">
-  <button class="arrow left-arrow" onclick="slide('ac', -1)">&#8249;</button>
-  <img src="/portfolio/projects/Portfolio_locker_1.png" alt="AC Unit 1" class="active" style="border: 2px solid rgb(159, 224, 153);"/>
-  <img src="/portfolio/projects/Portfolio_locker_2.png" alt="AC Unit 2" style="border: 2px solid rgb(159, 224, 153);"/>
-  <button class="arrow right-arrow" onclick="slide('ac', 1)">&#8250;</button>
+<div class="carousel" id="locker">
+  <button class="arrow left-arrow" onclick="slide('locker', -1)">&#8249;</button>
+  <img src="/portfolio/projects/Portfolio_Locker_1.png" alt="Locker 1" class="active" style="border: 2px solid rgb(159, 224, 153);"/>
+  <img src="/portfolio/projects/Portfolio_Locker_2.png" alt="Locker 2" style="border: 2px solid rgb(159, 224, 153);"/>
+  <button class="arrow right-arrow" onclick="slide('locker', 1)">&#8250;</button>
 </div>
 
 <script>

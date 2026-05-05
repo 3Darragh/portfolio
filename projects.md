@@ -39,7 +39,7 @@ permalink: /works/
   <!-- Solar System -->
   <a href="/portfolio/projects/demo_solarsystem/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
-    <img src="/portfolio/projects/Portfolio_CPP.png" alt="Interactive Solar System"/>
+    <img src="/portfolio/projects/Portfolio_Solarsystem_Screenshot.png" alt="Interactive Solar System"/>
     <div class="project-card-body">
       <h3>Interactive Solar System</h3>
       <p>An interactive solar system made in Javascript as an educational tool.</p>
