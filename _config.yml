@@ -208,12 +208,12 @@ include:
   - projects/Portfolio_Subway_1.png
   - projects/Portfolio_Subway_2.png
   - projects/Unity_Character_Controller/index.html
-  - projects/Unity_Character_Controller/StreamingAssets
   - projects/Unity_Character_Controller/TemplateData
-  - projects/Unity_Character_Controller/CS130 Unity Projects.data.br
-  - projects/Unity_Character_Controller/CS130 Unity Projects.framework.js.br
-  - projects/Unity_Character_Controller/CS130 Unity Projects.loader.js
-  - projects/Unity_Character_Controller/CS 130 Unity Projects.wasm.br
+  - projects/Unity_Character_Controller/StreamingAssets
+  - projects/Unity_Character_Controller/Unity_Character_Controller.data
+  - projects/Unity_Character_Controller/Unity_Character_Controller.framework.js
+  - projects/Unity_Character_Controller/Unity_Character_Controller.loader.js
+  - projects/Unity_Character_Controller/Unity_Character_Controller.wasm
 
 
 # Plugins
