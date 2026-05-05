@@ -142,6 +142,14 @@ a:has(.project-card) {
   .right-arrow { right: 10px; }
 }
 
+body.dark-mode .project-card {
+  background: #1a1a1a;
+  border-color: rgb(159, 224, 153);
+
+  h3 { color: #ccc; }
+  p { color: #aaa; }
+}
+
 // Tags
 @mixin tag($color) {
   display: inline-block;
