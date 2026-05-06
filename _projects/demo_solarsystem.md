@@ -9,7 +9,7 @@ permalink: /projects/demo_solarsystem/
 <iframe 
   src="/portfolio/projects/SolarSystemWebsite/index.html" 
   width="100%" 
-  height="620px" 
+  height="1080px" 
   frameborder="0"
   allowfullscreen
   style="border: 2px solid rgb(159, 224, 153); display: block; margin-bottom: 0;">
