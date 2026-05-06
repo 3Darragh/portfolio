@@ -157,9 +157,9 @@ h1.page-title ~ hr {
 }
 
 #_navbar {
-  width: calc(100% - 21rem) !important;
+  left: 21rem !important;
   right: 0 !important;
-  left: auto !important;
+  width: auto !important;
 }
 
 footer.content {
