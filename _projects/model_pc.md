@@ -8,8 +8,8 @@ permalink: /projects/model_pc/
 
 <div class="carousel" id="pc">
   <button class="arrow left-arrow" onclick="slide('pc', -1)">&#8249;</button>
-  <img src="/portfolio/projects/Portfolio_PC_1.png" alt="Computer 2" class="active" style="border: 2px solid rgb(159, 224, 153);"/>
-  <img src="/portfolio/projects/Portfolio_PC_2.png" alt="Computer 1" style="border: 2px solid rgb(159, 224, 153);"/>
+  <img src="/portfolio/projects/Portfolio_PC_2.png" alt="Computer 1" class="active" style="border: 2px solid rgb(159, 224, 153);"/>
+  <img src="/portfolio/projects/Portfolio_PC_1.png" alt="Computer 2" style="border: 2px solid rgb(159, 224, 153);"/>
   <button class="arrow right-arrow" onclick="slide('pc', 1)">&#8250;</button>
 </div>
 
@@ -23,6 +23,15 @@ permalink: /projects/model_pc/
   }
 </script>
 
-**Tags:** 3D Model, Blender
+<div style="margin-top: 16px;">
+  <span class="tag-model">3D Model</span>
+  <span class="tag-blender">Blender</span>
+</div>
 
-**Description:** "A 3D model of my computer in Blender as part of an assignment to create an object with intricate shape and texture. 
+<div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
+  <strong>Description</strong>
+  <p style="margin: 8px 0 10px 0;">A 3D model of my personal computer case created in Blender as part of an assignment to recreate an object from our homes.</p>
+  <p style="margin: 0;">The goal of this assignment was to experiment with more complex shapes and textures, 
+  which is why I chose this as while rigid the front panel has triangular holes which were created with a boolean modifier to make the first hole and an array modifier to repeat it.</p>
+  <p style="margin: 0;"> The model also has reflective and emmisive textures on the glass side panel and the power button, better shown by the second image which has a basic wall and floor. </p>
+</div>
