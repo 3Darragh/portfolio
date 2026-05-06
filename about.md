@@ -5,8 +5,14 @@ permalink: /about/
 ---
 
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
+  <strong>About</strong>
+  <p style="margin: 8px 0 0 0;">My name is Darragh McConville, and I am a programmer primarilly interested in
+  developing tools for game engines.</p>
+</div>
+
+<div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
   <strong>Education</strong>
-  <p style="margin: 8px 0 0 0;">I am a computer science and game development student with an Associate in Applied Science in Integrated Technology, graduating with honors in May 2026 with a 3.95 GPA. My studies have given me a strong foundation in programming, software design, and interactive systems, which I apply across all of my projects.</p>
+  <p style="margin: 8px 0 0 0;">I am a computer science and game development student with an Associate in Applied Science in Information Technology at Delaware County Community College, graduating in May 2026 with a 3.95 GPA. I plan to continue my education at Rutgers University to double major in Information Technology and Computer Science.</p>
 </div>
 
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
