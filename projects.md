@@ -11,6 +11,7 @@ permalink: /works/
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Zig.png" alt="Build System"/>
     <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>Build System</h3>
       <p>A modular build library for game engines written in Zig for game engines.</p>
       <div>
@@ -26,6 +27,7 @@ permalink: /works/
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Zig.png" alt="Input Handler"/>
     <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>Input Handler</h3>
       <p>An input handler made with SDL3 for mouse, keyboard, and controllers.</p>
       <div>
@@ -41,6 +43,7 @@ permalink: /works/
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Solarsystem_Screenshot.png" alt="Interactive Solar System"/>
     <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>Interactive Solar System</h3>
       <p>An interactive solar system made in Javascript as an educational tool.</p>
       <div>
@@ -56,6 +59,7 @@ permalink: /works/
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Subway_1.png" alt="Subway Scene"/>
     <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>Subway Scene</h3>
       <p>A custom subway tunnel scene made in Blender with modular assets.</p>
       <div>
@@ -71,6 +75,7 @@ permalink: /works/
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_CPP.png" alt="Math Library"/>
     <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>Math Library</h3>
       <p>A math library built from scratch with vectors, matrices, and quaternions.</p>
       <div>
@@ -82,11 +87,11 @@ permalink: /works/
   </a>
 
   <!-- Unity Demo -->
-<a href="/portfolio/projects/demo_unity/" style="text-decoration: none; color: inherit;">
+  <a href="/portfolio/projects/demo_unity/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Unity_Screenshot.png" alt="Unity Character Demo"/>
     <div class="project-card-body">
-      <hr style="border-color: rgb(159, 224, 153); border-width: 4px; margin: -14px -14px 12px -14px;"/>
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>Unity Character Demo</h3>
       <p>Playable Unity Demo made to show physics applied to the character controller.</p>
       <div>
@@ -95,13 +100,14 @@ permalink: /works/
       </div>
     </div>
   </div>
-</a>
+  </a>
 
   <!-- AC Unit -->
   <a href="/portfolio/projects/model_ac/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_AC_1.png" alt="AC Unit"/>
     <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>AC Unit</h3>
       <p>A detailed 3D model of an AC unit made in Blender.</p>
       <div>
@@ -117,6 +123,7 @@ permalink: /works/
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Locker_1.png" alt="School Locker"/>
     <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>School Locker</h3>
       <p>A 3D model of a school locker made in Blender.</p>
       <div>
@@ -132,6 +139,7 @@ permalink: /works/
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_PC_2.png" alt="PC Case"/>
     <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>PC Case</h3>
       <p>A 3D model of a PC case made in Blender.</p>
       <div>
