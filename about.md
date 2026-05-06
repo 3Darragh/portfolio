@@ -7,7 +7,7 @@ permalink: /about/
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
   <strong>About</strong>
   <p style="margin: 8px 0 0 0;">My name is Darragh McConville, and I am a programmer primarilly interested in
-  developing tools for game engines.</p>
+  game engine architecture and tooling. I have worked on low level tools for game engines as well as other interactive programs or 3D models. My goal is to create my own low level game engine built off of what I already have.</p>
 </div>
 
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
