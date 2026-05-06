@@ -6,22 +6,6 @@ permalink: /works/
 
 <div class="project-grid">
 
-  <!-- Build System -->
-  <a href="/portfolio/projects/tool_build/" style="text-decoration: none; color: inherit;">
-  <div class="project-card">
-    <img src="/portfolio/projects/Portfolio_Zig.png" alt="Build System"/>
-    <div class="project-card-body">
-      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
-      <h3>Build System</h3>
-      <p>A modular build library for game engines written in Zig for game engines.</p>
-      <div>
-        <span class="tag-tool">Development Tool</span>
-        <span class="tag-zig">Zig</span>
-      </div>
-    </div>
-  </div>
-  </a>
-
   <!-- Input Handler -->
   <a href="/portfolio/projects/tool_input/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
@@ -118,17 +102,17 @@ permalink: /works/
   </div>
   </a>
 
-  <!-- Locker -->
-  <a href="/portfolio/projects/model_locker/" style="text-decoration: none; color: inherit;">
+    <!-- Build System -->
+  <a href="/portfolio/projects/tool_build/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
-    <img src="/portfolio/projects/Portfolio_Locker_1.png" alt="School Locker"/>
+    <img src="/portfolio/projects/Portfolio_Zig.png" alt="Build System"/>
     <div class="project-card-body">
       <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
-      <h3>School Locker</h3>
-      <p>A 3D model of a school locker made in Blender.</p>
+      <h3>Build System</h3>
+      <p>A modular build library for game engines written in Zig for game engines.</p>
       <div>
-        <span class="tag-model">3D Model</span>
-        <span class="tag-blender">Blender</span>
+        <span class="tag-tool">Development Tool</span>
+        <span class="tag-zig">Zig</span>
       </div>
     </div>
   </div>
@@ -142,6 +126,22 @@ permalink: /works/
       <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>PC Case</h3>
       <p>A 3D model of a PC case made in Blender.</p>
+      <div>
+        <span class="tag-model">3D Model</span>
+        <span class="tag-blender">Blender</span>
+      </div>
+    </div>
+  </div>
+  </a>
+
+    <!-- Locker -->
+  <a href="/portfolio/projects/model_locker/" style="text-decoration: none; color: inherit;">
+  <div class="project-card">
+    <img src="/portfolio/projects/Portfolio_Locker_1.png" alt="School Locker"/>
+    <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
+      <h3>School Locker</h3>
+      <p>A 3D model of a school locker made in Blender.</p>
       <div>
         <span class="tag-model">3D Model</span>
         <span class="tag-blender">Blender</span>
