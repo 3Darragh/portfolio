@@ -22,10 +22,10 @@ permalink: /about/
 
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
   <strong>Interactive Demos</strong>
-  <p style="margin: 8px 0 0 0;">I enjoy building interactive experiences that put the user in control. From a playable Unity character controller built around custom physics and movement, to an educational solar system simulation written in JavaScript, my interactive projects focus on making systems that are intuitive to explore and engaging to use.</p>
+  <p style="margin: 8px 0 0 0;">Due to my interest in interactive tooling for engines, I have also worked on other interactive projects in different mediums. I've worked on an educational solar system simulation as an educational tool using some basic math functions I developed in my math library. I've also made a custom character controller in Unity with movement, gravity, and friction, with concepts I will eventually use when I make my own physics engine.</p>
 </div>
 
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
   <strong>3D Models</strong>
-  <p style="margin: 8px 0 0 0;">Alongside my programming work I create 3D models and scenes in Blender. My modeling projects range from recreating everyday objects like a school locker and AC unit from reference images, to building complete environments like a subway tunnel scene. Working in 3D gives me a visual and artistic perspective that informs how I think about game design and interactive systems.</p>
+  <p style="margin: 8px 0 0 0;">Outside of programming I also have an interest in Blender and creating 3D models and scenes. I have recreated things around me as well as entire scenes and can UV and texture. I consider modeling a hobby compared to programming but still posted them here to display my progress.</p>
 </div>
