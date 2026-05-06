@@ -4,6 +4,8 @@ title: Blender Computer
 permalink: /projects/model_pc/
 ---
 
+<a href="/portfolio/works/" style="display: inline-block; margin-bottom: 20px; padding: 6px 16px; border: 2px solid rgb(159, 224, 153); color: var(--body-color); text-decoration: none; border-radius: 4px; font-size: 0.875rem; font-weight: bold;">← Back to Projects</a>
+
 <div class="carousel" id="pc">
   <button class="arrow left-arrow" onclick="slide('pc', -1)">&#8249;</button>
   <img src="/portfolio/projects/Portfolio_PC_1.png" alt="Computer 2" class="active" style="border: 2px solid rgb(159, 224, 153);"/>

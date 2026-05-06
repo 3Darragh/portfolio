@@ -4,6 +4,8 @@ title: Blender Locker
 permalink: /projects/model_locker/
 ---
 
+<a href="/portfolio/works/" style="display: inline-block; margin-bottom: 20px; padding: 6px 16px; border: 2px solid rgb(159, 224, 153); color: var(--body-color); text-decoration: none; border-radius: 4px; font-size: 0.875rem; font-weight: bold;">← Back to Projects</a>
+
 <div class="carousel" id="locker">
   <button class="arrow left-arrow" onclick="slide('locker', -1)">&#8249;</button>
   <img src="/portfolio/projects/Portfolio_Locker_1.png" alt="Locker 1" class="active" style="border: 2px solid rgb(159, 224, 153);"/>
