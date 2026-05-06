@@ -16,13 +16,13 @@ permalink: /about/
 </div>
 
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
-  <strong>Interactive Demos</strong>
-  <p style="margin: 8px 0 0 0;">I enjoy building interactive experiences that put the user in control. From a playable Unity character controller built around custom physics and movement, to an educational solar system simulation written in JavaScript, my interactive projects focus on making systems that are intuitive to explore and engaging to use.</p>
+  <strong>Development Tools</strong>
+  <p style="margin: 8px 0 0 0;">My interest in tools for game engines comes from my interest in math and physics, which all interactable parts are built off of. This has evolved into lower level programming with C++ and Zig where I have full control to design and optimize the architecture. I have worked on a build system, an input handler, and a math library with plans to expand these tools into an entire engine.</p>
 </div>
 
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
-  <strong>Development Tools</strong>
-  <p style="margin: 8px 0 0 0;">A large part of my programming work focuses on low level tools for game engines. I work primarily in C++ and Zig, building systems like a modular build library, an SDL3 input handler, and a math library covering vectors, matrices, and quaternions. These projects reflect my interest in writing efficient, reusable code that sits close to the hardware.</p>
+  <strong>Interactive Demos</strong>
+  <p style="margin: 8px 0 0 0;">I enjoy building interactive experiences that put the user in control. From a playable Unity character controller built around custom physics and movement, to an educational solar system simulation written in JavaScript, my interactive projects focus on making systems that are intuitive to explore and engaging to use.</p>
 </div>
 
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
