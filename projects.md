@@ -85,6 +85,7 @@ permalink: /works/
   <a href="/portfolio/projects/demo_unity/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Unity_Screenshot.png" alt="Unity Character Demo"/>
+    <hr style="border-color: rgb(159, 224, 153); margin-bottom: 16px;"/>
     <div class="project-card-body">
       <h3>Unity Character Demo</h3>
       <p>Playable Unity Demo made to show physics applied to the character controller.</p>
