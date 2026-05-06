@@ -32,10 +32,15 @@ permalink: /about/
 
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
   <strong>Goals</strong>
-  <p style="margin: 8px 0 0 0;">Goals</p> My short term goals are to convert my math library into Zig so it can be used with my other tools, and to create a chess game and AI by the end of the year. I think these are doable with work and school  but will be challenging and engaging enough to keep my interested. Long term I want to graduate and get a job working with game engines or CAD tools, which while niche I hope to build up my portfolio before then to make it possible.</p>
+  <p style="margin: 8px 0 0 0;"> My short term goals are to convert my math library into Zig so it can be used with my other tools, and to create a chess game and AI by the end of the year. I think these are doable with work and school  but will be challenging and engaging enough to keep my interested. Long term I want to graduate and get a job working with game engines or CAD tools, which while niche I hope to build up my portfolio before then to make it possible.</p>
 </div>
 
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
-  <strong>Reflection</strong>
-  <p style="margin: 8px 0 0 0;">Reflection</p> The main problem I see with my portfolio is that it is currently very scattered. I have projects across three genres and while I have clear interests the portfolio does not have as clear of a focus as I would like. I hope my new projects will help make this website look more cohesive. I also wantto look at more general projects, as I know my interests are rather niche in the computer science field and making more projects that are applicable to more people could help me in the long run.
+  <strong>Strengths</strong>
+  <p style="margin: 8px 0 0 0;"> I think the main strength of this portfolio is how technical my projects are. I believe that if I were to pivot in the future, going from low-level programming to a higher level would be easier. I also  think that while game engine design is also a very niche topic, I also think I am knowledgable enough and have put enough work into these projects that these would be hold up to industry standards.</p>
+</div>
+
+<div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
+  <strong>Weaknesses</strong>
+  <p style="margin: 8px 0 0 0;"> The main problem I see with my portfolio is that it is currently very scattered. I have projects across three genres and while I have clear interests the portfolio does not have as clear of a focus as I would like. I hope my new projects will help make this website look more cohesive. I also wantto look at more general projects, as I know my interests are rather niche in the computer science field and making more projects that are applicable to more people could help me in the long run.</p>
 </div>

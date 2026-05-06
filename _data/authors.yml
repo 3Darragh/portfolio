@@ -4,6 +4,7 @@
 author1:
   name:              Darragh McConville
   email:             3Darragh@gmail.com
+  url:              /portfolio/about/
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
