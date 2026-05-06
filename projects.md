@@ -12,7 +12,7 @@ permalink: /works/
     <img src="/portfolio/projects/Portfolio_Zig.png" alt="Build System"/>
     <div class="project-card-body">
       <h3>Build System</h3>
-      <p>A modular build library for game engines written in Zig.</p>
+      <p>A modular build library for game engines written in Zig for game engines.</p>
       <div>
         <span class="tag-tool">Development Tool</span>
         <span class="tag-zig">Zig</span>
@@ -57,7 +57,7 @@ permalink: /works/
     <img src="/portfolio/projects/Portfolio_Subway_1.png" alt="Subway Scene"/>
     <div class="project-card-body">
       <h3>Subway Scene</h3>
-      <p>A custom subway tunnel scene made in Blender.</p>
+      <p>A custom subway tunnel scene made in Blender with modular assets.</p>
       <div>
         <span class="tag-model">3D Model</span>
         <span class="tag-blender">Blender</span>
