@@ -91,3 +91,21 @@ Example code for using Matamo as alternative analytics solution.
 </script>
 {% endif %}
 {% endcomment %}
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var nameLink = document.querySelector('.sidebar a.sidebar-title, .sidebar a h1, .sidebar h1');
+    if (nameLink) {
+      var parent = nameLink.closest('a');
+      if (parent) parent.href = '/portfolio/about/';
+    }
+  });
+
+  document.getElementById('_pushState').addEventListener('hy-push-state-after', function() {
+    var nameLink = document.querySelector('.sidebar a.sidebar-title, .sidebar a h1, .sidebar h1');
+    if (nameLink) {
+      var parent = nameLink.closest('a');
+      if (parent) parent.href = '/portfolio/about/';
+    }
+  });
+</script>
