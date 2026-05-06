@@ -23,13 +23,15 @@ permalink: /projects/demo_solarsystem/
 <div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
   <strong>Controls</strong>
   <ul style="margin-top: 8px; margin-bottom: 0;">
-    <li>WASD — Move</li>
-    <li>Space — Jump</li>
-    <li>Mouse — Look around</li>
+    <li>Hover — Select Planet</li>
+    <li>Drag — Move</li>
+    <li>Scroll Wheel — Zoom In / Out</li>
+    <li>Time Slider — Speed Up / Slow Down</li>
   </ul>
   <hr style="border-color: rgb(159, 224, 153); margin-bottom: 16px;"/>
   <strong>Description</strong>
-  <p style="margin: 0 0 10px 0;">This is a playable demo of a Unity game made to show off a custom character controller. This was a project I made for a class that taught me how to make games in Unity.</p>
-  <p style="margin: 0 0 10px 0;">Using C#, I added custom movement, gravity, and friction. You must use these to collect the three coins spread throughout the level.</p>
-  <p style="margin: 0 0 20px 0;">GitHub Pages limits how fast the embed can update, resulting in the demo feeling slow in most regards, but I felt that this was an important project to include as it shows my understanding of how players interact with games and characters, as well as my proficiency in using game engines.</p>
+  <p style="margin: 0 0 10px 0;">This is an interactive solar system website made for a school project.</p>
+  <p style="margin: 0 0 10px 0;">The goal for this project was to make an educational tool with different multimedia elements. This project uses text, imagery, and animation to teach students about different planets and objects in space.</p>
+  <p style="margin: 0 0 20px 0;">This project was made entirely almost entirely out of Javascript with the 
+  sprites made in GIMP and animated in Piskel.</p>
 </div>
