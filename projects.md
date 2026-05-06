@@ -125,7 +125,7 @@ permalink: /works/
     <div class="project-card-body">
       <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>PC Case</h3>
-      <p>A 3D model of a PC case made in Blender for a class project.</p>
+      <p>A 3D model of my computer case made in Blender for a class project.</p>
       <div>
         <span class="tag-model">3D Model</span>
         <span class="tag-blender">Blender</span>
