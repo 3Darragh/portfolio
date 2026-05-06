@@ -27,7 +27,7 @@ permalink: /projects/demo_unity/
     <li>Space — Jump</li>
     <li>Mouse — Look around</li>
   </ul>
-  <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
+  <hr style="border-color: rgb(159, 224, 153); border width: 2px; margin-bottom: 16px;"/>
   <strong>Description</strong>
   <p style="margin: 0 0 10px 0;">This is a playable demo of a Unity game made to show off a custom character controller. This was a project I made for a class that taught me how to make games in Unity.</p>
   <p style="margin: 0 0 10px 0;">Using C#, I added custom movement, gravity, and friction. You must use these to collect the three coins spread throughout the level.</p>

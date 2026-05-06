@@ -28,7 +28,7 @@ permalink: /projects/demo_solarsystem/
     <li>Scroll Wheel — Zoom In / Out</li>
     <li>Time Slider — Speed Up / Slow Down</li>
   </ul>
-  <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>  
+  <hr style="border-color: rgb(159, 224, 153); border width: 2px; margin-bottom: 16px;"/>
   <strong>Description</strong>
   <p style="margin: 0 0 10px 0;">This is an interactive solar system website made for a school project.</p>
   <p style="margin: 0 0 10px 0;">The goal for this project was to make an educational tool with different multimedia elements. This project uses text, imagery, and animation to teach students about different planets and objects in space.</p>
