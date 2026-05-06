@@ -6,6 +6,22 @@ permalink: /works/
 
 <div class="project-grid">
 
+<!-- Solar System -->
+  <a href="/portfolio/projects/demo_solarsystem/" style="text-decoration: none; color: inherit;">
+  <div class="project-card">
+    <img src="/portfolio/projects/Portfolio_Solarsystem_Screenshot.png" alt="Interactive Solar System"/>
+    <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
+      <h3>Interactive Solar System</h3>
+      <p>An interactive solar system made in Javascript as an educational tool.</p>
+      <div>
+        <span class="tag-interactive">Interactive Demo</span>
+        <span class="tag-javascript">Javascript</span>
+      </div>
+    </div>
+  </div>
+  </a>
+
   <!-- Input Handler -->
   <a href="/portfolio/projects/tool_input/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
@@ -17,22 +33,6 @@ permalink: /works/
       <div>
         <span class="tag-tool">Development Tool</span>
         <span class="tag-zig">Zig</span>
-      </div>
-    </div>
-  </div>
-  </a>
-
-  <!-- Solar System -->
-  <a href="/portfolio/projects/demo_solarsystem/" style="text-decoration: none; color: inherit;">
-  <div class="project-card">
-    <img src="/portfolio/projects/Portfolio_Solarsystem_Screenshot.png" alt="Interactive Solar System"/>
-    <div class="project-card-body">
-      <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
-      <h3>Interactive Solar System</h3>
-      <p>An interactive solar system made in Javascript as an educational tool.</p>
-      <div>
-        <span class="tag-interactive">Interactive Demo</span>
-        <span class="tag-javascript">Javascript</span>
       </div>
     </div>
   </div>
@@ -93,7 +93,7 @@ permalink: /works/
     <div class="project-card-body">
       <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>AC Unit</h3>
-      <p>A detailed 3D model of an AC unit made in Blender.</p>
+      <p>A 3D model of an industrial AC unit made in Blender for a class project.</p>
       <div>
         <span class="tag-model">3D Model</span>
         <span class="tag-blender">Blender</span>
@@ -125,7 +125,7 @@ permalink: /works/
     <div class="project-card-body">
       <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>PC Case</h3>
-      <p>A 3D model of a PC case made in Blender.</p>
+      <p>A 3D model of a PC case made in Blender for a class project.</p>
       <div>
         <span class="tag-model">3D Model</span>
         <span class="tag-blender">Blender</span>
@@ -141,7 +141,7 @@ permalink: /works/
     <div class="project-card-body">
       <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: -14px -14px 12px -14px;"/>
       <h3>School Locker</h3>
-      <p>A 3D model of a school locker made in Blender.</p>
+      <p>A 3D model of a school locker made in Blender for a class project.</p>
       <div>
         <span class="tag-model">3D Model</span>
         <span class="tag-blender">Blender</span>
