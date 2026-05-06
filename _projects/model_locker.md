@@ -23,6 +23,13 @@ permalink: /projects/model_locker/
   }
 </script>
 
-**Tags:** 3D Model, Blender
+<div style="margin-top: 16px;">
+  <span class="tag-model">3D Model</span>
+  <span class="tag-blender">Blender</span>
+</div>
 
-**Description:** "A 3D model of a school locker created in Blender as part of a class assignment to find and recreate an everyday object found around campus. The goal of this assignment was to practice accuracy in texturing and scaling. Uses basic textures with toned down metalic maps and I made a basic black and white texture for the handle.
+<div style="margin-top: 20px; padding: 16px; border: 2px solid rgb(159, 224, 153); border-radius: 6px; background: rgba(159, 224, 153, 0.05);">
+  <strong>Description</strong>
+  <p style="margin: 8px 0 10px 0;">A 3D model of a school locker created in Blender as part of a class assignment to find and recreate an everyday object found around campus.</p>
+  <p style="margin: 0 0 10px 0;">The goal of this assignment was to practice accuracy in texturing and scaling. The model uses basic textures with toned down metalic maps, and a custom black and white texture for the handle.</p>
+</div>
