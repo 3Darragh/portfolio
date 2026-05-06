@@ -82,11 +82,11 @@ permalink: /works/
   </a>
 
   <!-- Unity Demo -->
-  <a href="/portfolio/projects/demo_unity/" style="text-decoration: none; color: inherit;">
+<a href="/portfolio/projects/demo_unity/" style="text-decoration: none; color: inherit;">
   <div class="project-card">
     <img src="/portfolio/projects/Portfolio_Unity_Screenshot.png" alt="Unity Character Demo"/>
-    <hr style="border-color: rgb(159, 224, 153); margin: 0;"/>
     <div class="project-card-body">
+      <hr style="border-color: rgb(159, 224, 153); margin: 0 0 12px 0;"/>
       <h3>Unity Character Demo</h3>
       <p>Playable Unity Demo made to show physics applied to the character controller.</p>
       <div>
@@ -95,7 +95,7 @@ permalink: /works/
       </div>
     </div>
   </div>
-  </a>
+</a>
 
   <!-- AC Unit -->
   <a href="/portfolio/projects/model_ac/" style="text-decoration: none; color: inherit;">
