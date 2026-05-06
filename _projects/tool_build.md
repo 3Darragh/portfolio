@@ -21,6 +21,6 @@ permalink: /projects/tool_build/
   <hr style="border-color: rgb(159, 224, 153); border-width: 2px; margin: 16px 0;"/>
   <strong>Links</strong>
   <div style="margin-top: 8px;">
-    <a href="https://github.com/3Darragh/Unum_Build" target="_blank" style="display: inline-block; padding: 6px 16px; border: 2px solid rgb(159, 224, 153); color: var(--body-color); text-decoration: none; border-radius: 4px; font-size: 0.875rem; font-weight: bold;">⌥ GitHub Repository</a>
+    <a href="https://github.com/3Darragh/Unum_Build" target="_blank" style="display: inline-block; padding: 6px 16px; border: 2px solid rgb(159, 224, 153); color: var(--body-color); text-decoration: none; border-radius: 4px; font-size: 0.875rem; font-weight: bold;">GitHub Repository</a>
   </div>
 </div>
