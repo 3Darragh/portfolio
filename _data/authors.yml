@@ -23,7 +23,6 @@ author1:
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
     github:          3darragh
-    email: 3Darragh@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -75,3 +74,4 @@ author1:
     # mastodon:        https://<url>
     # x:               <username>
     artstation:      https://www.artstation.com/darragh
+        email: 3Darragh@gmail.com
